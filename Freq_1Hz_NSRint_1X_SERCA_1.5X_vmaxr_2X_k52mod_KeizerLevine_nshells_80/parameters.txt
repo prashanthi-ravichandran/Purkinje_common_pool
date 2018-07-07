@@ -1,0 +1,7 @@
+Frequency =  	 1 
+KSR_factor =  	 1.5 
+Vmaxr_factor =  	 2 
+NCX_factor =  	 1 
+Tubulation_factor =  	 0.9 
+Ksat_factor =  	 1 
+SR_factor =  	 1 
